@@ -1,10 +1,11 @@
 {
-  "name": "Bass Tracker",
-  "short_name": "BassTracker",
+  "name": "Semitone Trainer",
+  "short_name": "Semitone",
   "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#222222",
+  "theme_color": "#222222",
   "icons": [
     {
       "src": "icon-192.png",
